@@ -6,10 +6,24 @@
   color:royalblue;
 }
 
+.mobheading{
+  font-family: cursive;
+  font-size:35px;
+  font-weight: bold;
+  padding-top: 50px;
+  color:royalblue;
+}
+
 .imgposter{
   width: 500px;
   height: 300px;
 }
+.mobimgposter{
+  width: 300px;
+  height: 200px;
+}
+
+
 .posterheading{
   font-size: 30px;
   font-family: cursive;
@@ -18,7 +32,13 @@
 }
 
 .icon{
-  width: 200px;
-  height: 150px;
-  border-radius: 50%;
+  width: 250px;
+  height: 180px;
+
+}
+.mobicon {
+  width: 100px;
+  height: 90px;
+
+  align-items: center;
 }
